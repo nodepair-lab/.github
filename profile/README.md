@@ -1,18 +1,37 @@
-# NodePair Lab
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nodepair-lab/.github/main/profile/banner.svg" alt="NodePair Lab. Hands-on Linux, networking and infrastructure labs." width="100%">
+</p>
 
-Hands-on Linux, networking and infrastructure labs, written up as we go.
+<p align="center">
+  <a href="https://github.com/AMG-ir"><img src="https://img.shields.io/badge/Matin_Ghorbani-AMG--ir-0b1220?style=for-the-badge&logo=github&logoColor=5ad1ff" alt="Matin Ghorbani on GitHub"></a>
+  <a href="https://github.com/hesamkhavari"><img src="https://img.shields.io/badge/Hesam_Khavari-hesamkhavari-0b1220?style=for-the-badge&logo=github&logoColor=7ee2a8" alt="Hesam Khavari on GitHub"></a>
+</p>
 
-We are two computer engineering students who like to build things on real machines, break them, and document what actually happened, including what we could not solve.
+## About
 
-## What you will find here
+We are two computer engineering students who like to build things on real machines, break them, and write down what actually happened, including what we could not solve.
 
-- Step-by-step lab write-ups with the real problems we ran into
-- Honest notes: what worked, what did not, and what is still open
-- Documentation in English and Persian
+```text
+~$ cat how-we-work.txt
+real hardware   > not only virtual machines
+real output     > no claim without proof from the machine
+real failures   > documented, not hidden
+two languages   > English and Persian
+```
 
-## Who we are
+## Focus areas
 
-- [Matin Ghorbani](https://github.com/AMG-ir)
-- [Hesam Khavari](https://github.com/hesamkhavari)
+| Area | What we do |
+| :--- | :--- |
+| Linux | Installation, administration, troubleshooting |
+| Networking | Layer 2 and layer 3 debugging, switching, routing |
+| Infrastructure | Servers, virtualization, home labs |
+| Legacy systems | Getting old systems and hardware to cooperate |
 
-Most of our labs are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Share and adapt them, with credit.
+## Labs
+
+Our first lab write-up is being finalized and will appear here soon.
+
+## License
+
+Most of our write-ups are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Share and adapt them, with credit.
