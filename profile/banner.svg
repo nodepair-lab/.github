@@ -1,34 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="NodePair Lab. Hands-on Linux, networking and infrastructure labs.">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="NodePair Lab. Hands-on Linux, networking and infrastructure labs.">
   <defs>
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M40 0H0V40" fill="none" stroke="#16223a" stroke-width="1"/>
-    </pattern>
-    <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#0b1220" stop-opacity="0"/>
-      <stop offset="1" stop-color="#0b1220" stop-opacity="0.9"/>
-    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#16223a" stroke-width="1"/></pattern>
+    <radialGradient id="glow" cx="0.5" cy="0.35" r="0.6"><stop offset="0" stop-color="#5ad1ff" stop-opacity="0.16"/><stop offset="1" stop-color="#0b1220" stop-opacity="0"/></radialGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0b1220" stop-opacity="0"/><stop offset="1" stop-color="#0b1220" stop-opacity="0.9"/></linearGradient>
   </defs>
-  <rect width="1200" height="320" fill="#0b1220"/>
-  <rect width="1200" height="320" fill="url(#grid)"/>
-  <rect width="1200" height="320" fill="url(#fade)"/>
-
-  <text x="600" y="128" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="68" font-weight="800" fill="#e6edf7" letter-spacing="-1">NodePair Lab</text>
-  <text x="600" y="176" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" fill="#9fb0c8">Hands-on Linux, networking and infrastructure labs</text>
-
-  <line x1="150" y1="250" x2="1050" y2="250" stroke="#2a4a6b" stroke-width="3" stroke-dasharray="10 10"/>
-
-  <circle cx="150" cy="250" r="26" fill="#121b2e" stroke="#5ad1ff" stroke-width="3"/>
-  <circle cx="150" cy="250" r="9" fill="#5ad1ff"/>
-  <circle cx="1050" cy="250" r="26" fill="#121b2e" stroke="#7ee2a8" stroke-width="3"/>
-  <circle cx="1050" cy="250" r="9" fill="#7ee2a8"/>
-
-  <text x="150" y="304" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="18" fill="#9fb0c8">AMG-ir</text>
-  <text x="1050" y="304" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="18" fill="#9fb0c8">hesamkhavari</text>
-
-  <circle r="7" fill="#5ad1ff">
-    <animateMotion dur="3s" repeatCount="indefinite" path="M150 250 L1050 250"/>
-  </circle>
-  <circle r="7" fill="#7ee2a8">
-    <animateMotion dur="3s" begin="-1.5s" repeatCount="indefinite" path="M1050 250 L150 250"/>
-  </circle>
+  <rect width="1200" height="360" fill="#0b1220"/>
+  <rect width="1200" height="360" fill="url(#grid)"/>
+  <rect width="1200" height="360" fill="url(#glow)"/>
+  <rect width="1200" height="360" fill="url(#fade)"/>
+  <text x="600" y="150" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="80" font-weight="800" fill="#e6edf7" letter-spacing="-1.5">NodePair Lab</text>
+  <text x="600" y="198" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="27" fill="#9fb0c8">Hands-on Linux, networking and infrastructure labs</text>
+  <g font-family="Consolas, Menlo, DejaVu Sans Mono, monospace" font-size="18" text-anchor="middle">
+    <rect x="335" y="226" width="120" height="40" rx="20" fill="#121b2e" stroke="#2a4a6b"/><text x="395" y="252" fill="#5ad1ff">Linux</text>
+    <rect x="475" y="226" width="170" height="40" rx="20" fill="#121b2e" stroke="#1f4a3a"/><text x="560" y="252" fill="#7ee2a8">Networking</text>
+    <rect x="665" y="226" width="200" height="40" rx="20" fill="#121b2e" stroke="#4a4130"/><text x="765" y="252" fill="#ffd479">Infrastructure</text>
+  </g>
+  <line x1="150" y1="312" x2="1050" y2="312" stroke="#2a4a6b" stroke-width="3" stroke-dasharray="10 10"/>
+  <circle cx="150" cy="312" r="24" fill="#121b2e" stroke="#5ad1ff" stroke-width="3"/><circle cx="150" cy="312" r="8" fill="#5ad1ff"/>
+  <circle cx="1050" cy="312" r="24" fill="#121b2e" stroke="#7ee2a8" stroke-width="3"/><circle cx="1050" cy="312" r="8" fill="#7ee2a8"/>
+  <circle r="7" fill="#5ad1ff"><animateMotion dur="3s" repeatCount="indefinite" path="M150 312 L1050 312"/></circle>
+  <circle r="7" fill="#7ee2a8"><animateMotion dur="3s" begin="-1.5s" repeatCount="indefinite" path="M1050 312 L150 312"/></circle>
 </svg>

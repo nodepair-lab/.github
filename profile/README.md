@@ -7,33 +7,44 @@
   <a href="https://github.com/hesamkhavari"><img src="https://img.shields.io/badge/Hesam_Khavari-hesamkhavari-0b1220?style=for-the-badge&logo=github&logoColor=7ee2a8" alt="Hesam Khavari on GitHub"></a>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nodepair-lab/.github/main/profile/divider.svg" alt="" width="100%">
+</p>
+
 ## About
 
 We are two computer engineering students who like to build things on real machines, break them, and write down what actually happened, including what we could not solve.
 
-```text
-~$ cat how-we-work.txt
-real hardware   > not only virtual machines
-real output     > no claim without proof from the machine
-real failures   > documented, not hidden
-two languages   > English and Persian
-```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nodepair-lab/.github/main/profile/terminal.svg" alt="how-we-work.txt: real hardware, real output, real failures, two languages." width="100%">
+</p>
 
 ## Focus areas
 
-| Area | What we do |
-| :--- | :--- |
-| Linux | Installation, administration, troubleshooting |
-| Networking | Layer 2 and layer 3 debugging, switching, routing |
-| Infrastructure | Servers, virtualization, home labs |
-| Legacy systems | Getting old systems and hardware to cooperate |
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nodepair-lab/.github/main/profile/focus.svg" alt="Focus areas: Linux, Networking, Infrastructure, Legacy systems." width="100%">
+</p>
 
-## Labs
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nodepair-lab/.github/main/profile/divider.svg" alt="" width="100%">
+</p>
 
-| Lab | What it covers |
-| :--- | :--- |
-| [legacy-unix-install-lab](https://github.com/nodepair-lab/legacy-unix-install-lab) | Installing a classic commercial UNIX on real legacy hardware, and a networking problem we have not solved yet. English and Persian. |
+## Featured lab
 
-## License
+<a href="https://github.com/nodepair-lab/legacy-unix-install-lab">
+  <img src="https://raw.githubusercontent.com/nodepair-lab/.github/main/profile/lab-card.svg" alt="Featured lab: legacy-unix-install-lab. Installing a classic commercial UNIX on real legacy hardware, and a networking problem we have not solved yet." width="100%">
+</a>
 
-Most of our write-ups are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Share and adapt them, with credit.
+## Team
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nodepair-lab/.github/main/profile/team.svg" alt="Team: Matin Ghorbani (AMG-ir) and Hesam Khavari (hesamkhavari)." width="100%">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nodepair-lab/.github/main/profile/divider.svg" alt="" width="100%">
+</p>
+
+<p align="center">
+  Most of our write-ups are licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>. Share and adapt them, with credit.
+</p>

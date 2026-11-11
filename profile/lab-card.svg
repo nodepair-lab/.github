@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="270" viewBox="0 0 1200 270" role="img" aria-label="Featured lab: legacy-unix-install-lab. Install done, NIC driver working, ping open.">
+  <rect x="1" y="1" width="1198" height="268" rx="20" fill="#121b2e" stroke="#22314d" stroke-width="2"/>
+  <text x="48" y="54" font-family="Consolas, Menlo, DejaVu Sans Mono, monospace" font-size="16" letter-spacing="2" fill="#5ad1ff">FEATURED LAB</text>
+  <text x="48" y="104" font-family="Consolas, Menlo, DejaVu Sans Mono, monospace" font-size="38" font-weight="700" fill="#e6edf7">legacy-unix-install-lab</text>
+  <text x="48" y="146" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" fill="#9fb0c8">Installing a classic commercial UNIX on real legacy hardware,</text>
+  <text x="48" y="174" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" fill="#9fb0c8">and the networking problem we have not solved yet.</text>
+  <g font-family="Consolas, Menlo, DejaVu Sans Mono, monospace" font-size="17" text-anchor="middle">
+    <rect x="48" y="206" width="170" height="38" rx="19" fill="#17382c" stroke="#7ee2a8"/><text x="133" y="231" fill="#7ee2a8">Install: done</text>
+    <rect x="234" y="206" width="230" height="38" rx="19" fill="#17382c" stroke="#7ee2a8"/><text x="349" y="231" fill="#7ee2a8">NIC driver: working</text>
+    <rect x="480" y="206" width="140" height="38" rx="19" fill="#3a1d27" stroke="#ff9a9a"/><text x="550" y="231" fill="#ff9a9a">Ping: open</text>
+    <rect x="636" y="206" width="120" height="38" rx="19" fill="#0b1220" stroke="#2a4a6b"/><text x="696" y="231" fill="#5ad1ff">EN + FA</text>
+  </g>
+  <g font-family="Consolas, Menlo, DejaVu Sans Mono, monospace" font-size="18">
+    <rect x="810" y="36" width="344" height="58" rx="12" fill="#0b1220" stroke="#4a2a35" stroke-width="2"/>
+    <circle cx="840" cy="65" r="11" fill="#3a1d27" stroke="#ff9a9a" stroke-width="2"/><path d="M835 60l10 10M845 60l-10 10" stroke="#ff9a9a" stroke-width="2.5" stroke-linecap="round"/>
+    <text x="866" y="71" fill="#e6edf7">SATA SSD</text><text x="1140" y="71" text-anchor="end" fill="#ff9a9a">not detected</text>
+    <rect x="810" y="106" width="344" height="58" rx="12" fill="#0b1220" stroke="#1f4a3a" stroke-width="2"/>
+    <circle cx="840" cy="135" r="11" fill="#17382c" stroke="#7ee2a8" stroke-width="2"/><path d="M834 135l5 5 8-10" fill="none" stroke="#7ee2a8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="866" y="141" fill="#e6edf7">IDE HDD</text><text x="1140" y="141" text-anchor="end" fill="#7ee2a8">detected</text>
+    <rect x="810" y="176" width="344" height="58" rx="12" fill="#0b1220" stroke="#4a2a35" stroke-width="2"/>
+    <circle cx="840" cy="205" r="11" fill="#3a1d27" stroke="#ff9a9a" stroke-width="2"/><path d="M835 200l10 10M845 200l-10 10" stroke="#ff9a9a" stroke-width="2.5" stroke-linecap="round"/>
+    <text x="866" y="211" fill="#e6edf7">ICMP echo</text><text x="1140" y="211" text-anchor="end" fill="#ff9a9a">no reply</text>
+  </g>
+</svg>

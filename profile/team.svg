@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190" role="img" aria-label="Team: Matin Ghorbani and Hesam Khavari.">
+  <defs><linearGradient id="lk" gradientUnits="userSpaceOnUse" x1="540" y1="0" x2="660" y2="0"><stop offset="0" stop-color="#5ad1ff"/><stop offset="1" stop-color="#7ee2a8"/></linearGradient></defs>
+  <rect x="1" y="10" width="538" height="170" rx="18" fill="#121b2e" stroke="#22314d" stroke-width="2"/>
+  <circle cx="86" cy="95" r="38" fill="#0b1220" stroke="#5ad1ff" stroke-width="4"/><text x="86" y="108" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="36" font-weight="800" fill="#5ad1ff">M</text>
+  <text x="148" y="78" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="800" fill="#e6edf7">Matin Ghorbani</text>
+  <text x="148" y="108" font-family="Consolas, Menlo, DejaVu Sans Mono, monospace" font-size="18" fill="#5ad1ff">@AMG-ir</text>
+  <text x="148" y="140" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#9fb0c8">Networking, Linux, Windows Server, Cisco, Python</text>
+  <line x1="540" y1="95" x2="660" y2="95" stroke="url(#lk)" stroke-width="4" stroke-dasharray="8 8"/>
+  <circle r="6" fill="#5ad1ff"><animateMotion dur="2.4s" repeatCount="indefinite" path="M540 95 L660 95"/></circle>
+  <circle r="6" fill="#7ee2a8"><animateMotion dur="2.4s" begin="-1.2s" repeatCount="indefinite" path="M660 95 L540 95"/></circle>
+  <rect x="661" y="10" width="538" height="170" rx="18" fill="#121b2e" stroke="#22314d" stroke-width="2"/>
+  <circle cx="746" cy="95" r="38" fill="#0b1220" stroke="#7ee2a8" stroke-width="4"/><text x="746" y="108" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="36" font-weight="800" fill="#7ee2a8">H</text>
+  <text x="808" y="78" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="800" fill="#e6edf7">Hesam Khavari</text>
+  <text x="808" y="108" font-family="Consolas, Menlo, DejaVu Sans Mono, monospace" font-size="18" fill="#7ee2a8">@hesamkhavari</text>
+  <text x="808" y="140" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#9fb0c8">Linux, infrastructure and networking</text>
+</svg>
