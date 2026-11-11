@@ -30,7 +30,9 @@ two languages   > English and Persian
 
 ## Labs
 
-Our first lab write-up is being finalized and will appear here soon.
+| Lab | What it covers |
+| :--- | :--- |
+| [legacy-unix-install-lab](https://github.com/nodepair-lab/legacy-unix-install-lab) | Installing a classic commercial UNIX on real legacy hardware, and a networking problem we have not solved yet. English and Persian. |
 
 ## License
 
